@@ -1,0 +1,27 @@
+h2{
+    color: whitesmoke;
+}
+.profileclasse{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imgprof{
+    width: 300px;
+    height: 300px;
+}
+.profileclasse1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 700px;
+ 
+
+}
+
+.btna{
+margin-top: 30px;
+}
